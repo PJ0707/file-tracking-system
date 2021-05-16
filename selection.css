@@ -1,0 +1,28 @@
+body
+ { 
+ padding-bottom:300px;
+ background:url("bo.jpg");
+ background-size:cover;
+ background-position:center;
+
+ } 
+ .c1{
+ margin:50px;
+ display:flex;
+ padding:70px;
+ justify-content:center;
+ }
+ .c2{
+ color:white;
+ background-color:white;
+ padding:30px;
+ margin:20px;
+ justify-content:center;
+ }
+ .img{
+ 	justify-content: center;
+ 	margin-left: 500px;
+ }
+ .log{
+ 	margin-left:1000px;
+ }
